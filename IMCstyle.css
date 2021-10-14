@@ -1,0 +1,41 @@
+
+
+#container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: yellow;
+    margin:auto;
+    text-align: center;
+    display: grid;
+    justify-content:center ;
+     width: 500px;
+     border-radius: 20px;
+
+}
+
+
+
+#calcular {
+  
+    background-color:black;
+    color: blanchedalmond;
+   width: 200px;
+   border-radius: 20px;
+  
+    
+}
+
+#resultado{
+    margin-top: 30px;
+   margin-bottom: 30px;
+    padding: 20px;
+    width: 420px;
+    border-radius: 20px;
+
+    background: black;
+}
+#res{
+    margin-bottom: 50px;
+
+    text-align: center;
+    color:yellow;
+}
